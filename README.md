@@ -1,3 +1,3 @@
 # Projetos-Android-Kotlin
-Projeto mobile's no Android Studio com Kotlin
+Projetos mobile's no Android Studio com linguagem Kotlin
 OBS: Descompactar e rodar no androidStudio.
